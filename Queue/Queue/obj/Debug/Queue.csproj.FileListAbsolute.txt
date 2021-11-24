@@ -1,0 +1,6 @@
+H:\Visual Studio 2019\Projects\Queue\Queue\bin\Debug\Queue.exe.config
+H:\Visual Studio 2019\Projects\Queue\Queue\bin\Debug\Queue.exe
+H:\Visual Studio 2019\Projects\Queue\Queue\bin\Debug\Queue.pdb
+H:\Visual Studio 2019\Projects\Queue\Queue\obj\Debug\Queue.csprojAssemblyReference.cache
+H:\Visual Studio 2019\Projects\Queue\Queue\obj\Debug\Queue.exe
+H:\Visual Studio 2019\Projects\Queue\Queue\obj\Debug\Queue.pdb

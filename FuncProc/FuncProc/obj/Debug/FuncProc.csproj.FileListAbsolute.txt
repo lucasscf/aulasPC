@@ -1,0 +1,6 @@
+H:\Visual Studio 2019\Projects\FuncProc\FuncProc\bin\Debug\FuncProc.exe.config
+H:\Visual Studio 2019\Projects\FuncProc\FuncProc\bin\Debug\FuncProc.exe
+H:\Visual Studio 2019\Projects\FuncProc\FuncProc\bin\Debug\FuncProc.pdb
+H:\Visual Studio 2019\Projects\FuncProc\FuncProc\obj\Debug\FuncProc.csprojAssemblyReference.cache
+H:\Visual Studio 2019\Projects\FuncProc\FuncProc\obj\Debug\FuncProc.exe
+H:\Visual Studio 2019\Projects\FuncProc\FuncProc\obj\Debug\FuncProc.pdb

@@ -1,0 +1,6 @@
+H:\Visual Studio 2019\Projects\Vetor\Vetor\bin\Debug\Vetor.exe.config
+H:\Visual Studio 2019\Projects\Vetor\Vetor\bin\Debug\Vetor.exe
+H:\Visual Studio 2019\Projects\Vetor\Vetor\bin\Debug\Vetor.pdb
+H:\Visual Studio 2019\Projects\Vetor\Vetor\obj\Debug\Vetor.csprojAssemblyReference.cache
+H:\Visual Studio 2019\Projects\Vetor\Vetor\obj\Debug\Vetor.exe
+H:\Visual Studio 2019\Projects\Vetor\Vetor\obj\Debug\Vetor.pdb

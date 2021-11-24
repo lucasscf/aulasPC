@@ -1,0 +1,6 @@
+H:\Visual Studio 2019\Projects\Listas\Listas\bin\Debug\Listas.exe.config
+H:\Visual Studio 2019\Projects\Listas\Listas\bin\Debug\Listas.exe
+H:\Visual Studio 2019\Projects\Listas\Listas\bin\Debug\Listas.pdb
+H:\Visual Studio 2019\Projects\Listas\Listas\obj\Debug\Listas.csprojAssemblyReference.cache
+H:\Visual Studio 2019\Projects\Listas\Listas\obj\Debug\Listas.exe
+H:\Visual Studio 2019\Projects\Listas\Listas\obj\Debug\Listas.pdb

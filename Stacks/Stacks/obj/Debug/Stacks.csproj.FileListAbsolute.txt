@@ -1,0 +1,6 @@
+H:\Visual Studio 2019\Projects\Stacks\Stacks\bin\Debug\Stacks.exe.config
+H:\Visual Studio 2019\Projects\Stacks\Stacks\bin\Debug\Stacks.exe
+H:\Visual Studio 2019\Projects\Stacks\Stacks\bin\Debug\Stacks.pdb
+H:\Visual Studio 2019\Projects\Stacks\Stacks\obj\Debug\Stacks.csprojAssemblyReference.cache
+H:\Visual Studio 2019\Projects\Stacks\Stacks\obj\Debug\Stacks.exe
+H:\Visual Studio 2019\Projects\Stacks\Stacks\obj\Debug\Stacks.pdb

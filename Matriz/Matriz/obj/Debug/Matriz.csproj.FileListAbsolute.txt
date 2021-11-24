@@ -1,0 +1,6 @@
+H:\Visual Studio 2019\Projects\Matriz\Matriz\bin\Debug\Matriz.exe.config
+H:\Visual Studio 2019\Projects\Matriz\Matriz\bin\Debug\Matriz.exe
+H:\Visual Studio 2019\Projects\Matriz\Matriz\bin\Debug\Matriz.pdb
+H:\Visual Studio 2019\Projects\Matriz\Matriz\obj\Debug\Matriz.csprojAssemblyReference.cache
+H:\Visual Studio 2019\Projects\Matriz\Matriz\obj\Debug\Matriz.exe
+H:\Visual Studio 2019\Projects\Matriz\Matriz\obj\Debug\Matriz.pdb
