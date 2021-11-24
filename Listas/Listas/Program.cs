@@ -37,13 +37,6 @@ namespace Listas
             // Adicionando valor do teclado na lista
             //listNumeros.Add(Convert.ToInt32(Console.ReadLine()));
 
-            // Excluindo todos os itens da lista
-            /*
-            for (int i = 0; i < listNumeros.Count; i = 0) {
-                listNumeros.RemoveAt(i);
-            }
-            */
-
             Console.WriteLine(listNumeros[2]);
 
             // Percorrendo por todos os itens da lista
